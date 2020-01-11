@@ -28,5 +28,5 @@ Maël Fabien. Large Scale Kernel Methods . [Website](https://maelfabien.github.i
 
 Tianbao Yang,Yu-Feng Li,Mehrdad Mahdavi,Rong Jin. Nystrom Method vs Random Fourier Features: A Theoretical and Empirical Comparison [Paper](http://dirk.eddelbuettel.com/papers/RcppArmadillo.pdf)
 
-Zhang, Jian and May, Avner and Dao, Tri and R{\'e}, Christopher.Low-Precision Random Fourier Features for Memory-Constrained.arXiv preprint arXiv:1811.00155 Kernel Approximation
+Zhang, Jian and May, Avner and Dao, Tri and Re, Christopher.Low-Precision Random Fourier Features for Memory-Constrained.arXiv preprint arXiv:1811.00155 Kernel Approximation
 
